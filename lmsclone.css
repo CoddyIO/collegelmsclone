@@ -117,3 +117,28 @@ body {
     background-color: orange;
 
 }
+.site1{
+    color:rgb(231, 109, 8);
+    padding : 10px;
+    padding-left: 50px;
+
+}
+.box{
+    border: 2px solid black;
+    border-color: black;
+    color: orange;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+}
+.content2{
+    position: absolute;
+    top: 74vw;
+    left: 13vw;
+}
+.profile{
+    display: flex;
+    border-radius: 200px;
+    
+    
+}
