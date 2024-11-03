@@ -139,6 +139,7 @@ body {
 .profile{
     display: flex;
     border-radius: 200px;
-    
-    
+}
+.dabba{
+    display: none;
 }
